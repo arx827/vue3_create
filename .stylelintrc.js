@@ -16,8 +16,6 @@ module.exports = {
       ignorePseudoClasses: ['global']
     }],
 
-
-
     // 以下為自定義
     "block-no-empty": true,
     "declaration-empty-line-before": "never",

@@ -4,8 +4,5 @@
   "compilerOptions": {
     "composite": true,
     "types": ["node"]
-  },
-  // "files": [
-  //   "src/shims-vue.d.ts"
-  // ]
+  }
 }
