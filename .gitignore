@@ -14,6 +14,12 @@ dist-ssr
 coverage
 *.local
 
+package-lock.json
+src/auto-components.ts
+src/auto-components.d.ts
+src/auto-import.ts
+src/auto-import.d.ts
+
 /cypress/videos/
 /cypress/screenshots/
 

@@ -2,7 +2,7 @@
   "tabWidth": 2,
   "useTabs": false,
   "printWidth": 120,
-  "semi": true,
+  "semi": false,
   "singleQuote": true,
   "arrowParens": "avoid",
   "trailingComma": "all",
@@ -10,5 +10,6 @@
   "jsxSingleQuote": true,
   "jsxBracketSameLine": false,
   "insertPragma": false,
-  "ignorePath": ".prettierignore"
+  "ignorePath": ".prettierignore",
+  "endOfLine": "auto"
 }

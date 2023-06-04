@@ -3,9 +3,10 @@
   "include": ["vite.config.*", "vitest.config.*", "cypress.config.*", "playwright.config.*"],
   "compilerOptions": {
     "composite": true,
-    "types": ["node"]
   },
-  // "files": [
-  //   "src/shims-vue.d.ts"
-  // ]
+  "files": [
+    // "env.d.ts",
+    "src/shims-vue.d.ts",
+    "src/shims-tsx.d.ts"
+  ]
 }
